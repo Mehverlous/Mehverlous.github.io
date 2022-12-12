@@ -724,7 +724,8 @@ section {
 .contact {
   padding-bottom: 130px;
 }
-.contact .info {
+
+/*.contact .info {
   padding: 30px;
   background: #fff;
   width: 100%;
@@ -783,7 +784,7 @@ section {
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: #149ddd;
   color: #fff;
-}
+}*/
 .contact .php-email-form {
   width: 100%;
   padding: 30px;
